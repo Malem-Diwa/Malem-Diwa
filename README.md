@@ -19,11 +19,6 @@ I rarely make Open-Source Software.
 - C#
 
 Pronouns: He/Him.
-
-# Miscellaneous
-This will be my Github repository for storing random files and some of my Software I made long time ago.
-
-**Note**: "not all of them will be Open-Source."
 <!--
 **Malem-Diwa/Malem-Diwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
