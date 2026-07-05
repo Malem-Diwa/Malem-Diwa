@@ -19,6 +19,11 @@ I rarely make Open-Source Software.
 - C#
 
 Pronouns: He/Him.
+
+### About the "Social Preview" image looking terrible...
+Yes, my image drawing skills are terrible. Sorry about that.
+That is why you may see that image in some of my repositories.
+
 <!--
 **Malem-Diwa/Malem-Diwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
